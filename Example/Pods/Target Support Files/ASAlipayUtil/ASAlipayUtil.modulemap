@@ -1,0 +1,6 @@
+framework module ASAlipayUtil {
+  umbrella header "ASAlipayUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}

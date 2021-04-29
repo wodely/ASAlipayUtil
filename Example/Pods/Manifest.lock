@@ -1,0 +1,16 @@
+PODS:
+  - ASAlipayUtil (0.1.0)
+
+DEPENDENCIES:
+  - ASAlipayUtil (from `../`)
+
+EXTERNAL SOURCES:
+  ASAlipayUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASAlipayUtil: efb548b9ee42a92541a46443e8e6bafeacfb5784
+
+PODFILE CHECKSUM: bc67812ba06567312198b2c96870f85cf3721556
+
+COCOAPODS: 1.10.1
